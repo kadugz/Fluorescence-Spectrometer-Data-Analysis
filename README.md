@@ -27,7 +27,4 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 ## Exemplo de Uso
 - Certifique-se de que os arquivos de dados estão no formato correto (arquivo `.txt` conforme especificado nos códigos).
 - Altere o nome do arquivo nos scripts, se necessário, para que correspondam aos seus dados.
-
-
-## Link do Repositório
-Para acessar o repositório, visite: [Fluorescence Spectrometer Data Analysis](https://github.com/kadugz/Fluorescence-Spectrometer-Data-Analysis)
+- Altere o limite dos eixos para os valores de comprimento de onda Ex (nm), realizados em sua análise.
