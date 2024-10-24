@@ -31,4 +31,3 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 
 ## Link do Repositório
 Para acessar o repositório, visite: [Fluorescence Spectrometer Data Analysis](https://github.com/kadugz/Fluorescence-Spectrometer-Data-Analysis)
-```
