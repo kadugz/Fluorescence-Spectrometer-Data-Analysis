@@ -3,11 +3,11 @@
 Este repositório contém códigos para análise e visualização de dados provenientes de um espectrofluorímetro. Os scripts foram desenvolvidos para facilitar a compreensão e a visualização dos dados de fluorescência em gráficos 2D e 3D.
 
 ## Contribuição
-Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na compreensão dos dados e pelo suporte durante o desenvolvimento deste projeto.
+Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na compreensão dos dados e pelo suporte durante o desenvolvimento deste repositório.
 
 ## Estrutura do Repositório
-- `code_2D.ipynb`: Notebook com o código para gerar gráficos 2D das intensidades de fluorescência.
-- `code_3D.ipynb`: Notebook com o código para gerar gráficos 3D das intensidades de fluorescência.
+- `code_2D.ipynb`: Notebook contendo apenas o código para gerar gráficos 2D das intensidades de fluorescência.
+- `code_3D.ipynb`: Notebook contendo apenas o código para gerar gráficos 3D das intensidades de fluorescência.
 - `analysis.ipynb`: Notebook contendo ambos os códigos em um formato explicativo e organizado.
 
 ## Como Usar
@@ -28,8 +28,6 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 - Certifique-se de que os arquivos de dados estão no formato correto (arquivo `.txt` conforme especificado nos códigos).
 - Altere o nome do arquivo nos scripts, se necessário, para que correspondam aos seus dados.
 
-## Licença
-Este projeto está licenciado sob a MIT License.
 
 ## Link do Repositório
 Para acessar o repositório, visite: [Fluorescence Spectrometer Data Analysis](https://github.com/kadugz/Fluorescence-Spectrometer-Data-Analysis)
