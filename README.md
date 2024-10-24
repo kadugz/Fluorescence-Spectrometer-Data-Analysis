@@ -32,10 +32,3 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 ## Link do Repositório
 Para acessar o repositório, visite: [Fluorescence Spectrometer Data Analysis](https://github.com/kadugz/Fluorescence-Spectrometer-Data-Analysis)
 ```
-
-### Como Usar
-- **Copie o conteúdo acima** e cole-o no seu arquivo `README.md`.
-- Certifique-se de que a formatação esteja correta, especialmente se estiver usando um editor de texto que pode alterar a formatação Markdown.
-- Salve o arquivo e faça commit no seu repositório para atualizar as informações. 
-
-Dessa forma, qualquer um que acessar o seu repositório terá uma visão clara do que ele contém e como utilizá-lo.
