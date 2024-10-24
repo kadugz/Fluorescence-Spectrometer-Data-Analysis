@@ -1,4 +1,3 @@
-```markdown
 # Fluorescence Spectrometer Data Analysis
 
 Este repositório contém códigos para análise e visualização de dados provenientes de um espectrofluorímetro. Os scripts foram desenvolvidos para facilitar a compreensão e a visualização dos dados de fluorescência em gráficos 2D e 3D.
