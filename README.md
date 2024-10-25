@@ -9,6 +9,7 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 - `code_2D.ipynb`: Notebook contendo apenas o código para gerar gráficos 2D das intensidades de fluorescência.
 - `code_3D.ipynb`: Notebook contendo apenas o código para gerar gráficos 3D das intensidades de fluorescência.
 - `analysis.ipynb`: Notebook contendo ambos os códigos em um formato explicativo e organizado.
+Os códigos realizam o plot de dois gráficos, 2D e 3D, e geram sua imagem em um arquivo `.png`, à partir dos dados fornecidos pela máquina, no formato `.txt`.
 
 ## Como Usar
 1. **Clone este repositório**:
@@ -26,8 +27,9 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 
 ## Exemplo de Uso
 - Certifique-se de que os arquivos de dados estão no formato correto (arquivo `.txt` conforme especificado nos códigos).
-- Altere o nome do arquivo nos scripts, se necessário, para que correspondam aos seus dados.
-- Altere o limite dos eixos para os valores de comprimento de onda Ex (nm), realizados em sua análise.
+- Altere o nome do arquivo nos scripts, para que correspondam aos seus dados.
+- Rode o arquivo `.pipynb` em uma pasta que contenha seu arquivo `.txt`.
+- Aproveite seu belo gráfico!
 
 ## Referências
 - Imagem presente no cabeçalho dos arquivos `code_2D.ipynb`, `code_3D.ipynb` e `analysis.ipynb` https://img.freepik.com/vetores-premium/fundo-de-linhas-de-contorno-do-mapa-topografico_389675-150.jpg
