@@ -30,4 +30,4 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 - Altere o limite dos eixos para os valores de comprimento de onda Ex (nm), realizados em sua análise.
 
 ## Referências
-- 
+- Imagem presente no cabeçalho dos arquivos `code_2D.ipynb`, `code_3D.ipynb` e `analysis.ipynb` https://img.freepik.com/vetores-premium/fundo-de-linhas-de-contorno-do-mapa-topografico_389675-150.jpg
