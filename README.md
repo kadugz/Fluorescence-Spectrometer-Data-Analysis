@@ -19,7 +19,7 @@ Os códigos realizam o plot de dois gráficos, 2D e 3D, e geram sua imagem em um
    ```
 2. **Instale as dependências** (se necessário):
    ```bash
-   pip install numpy matplotlib pandas
+   pip install numpy matplotlib pandas mpl_toolkits
    ```
 
 3. **Execute os Notebooks**:
