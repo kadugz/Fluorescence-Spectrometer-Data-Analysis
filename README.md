@@ -27,7 +27,7 @@ Os códigos realizam o plot de dois gráficos, 2D e 3D, e geram sua imagem em um
    - Para uma visão geral e explicativa, consulte o `analysis.ipynb`.
 
 ## Exemplo de Uso
-- Certifique-se de que os arquivos de dados estão no formato correto (arquivo `.txt` conforme especificado nos códigos).
+- Certifique-se de que os arquivos de entrada estão no formato correto (`.txt`) e de que as bibliotecas foram instaladas.
 - Altere o nome do arquivo nos scripts, para que correspondam aos seus dados.
 - Rode o arquivo `.pipynb` em uma pasta que contenha seu arquivo `.txt`.
 - Aproveite seu belo gráfico!
