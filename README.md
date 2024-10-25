@@ -17,7 +17,7 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
    ```
 2. **Instale as dependências** (se necessário):
    ```bash
-   pip install numpy matplotlib
+   pip install numpy matplotlib pandas
    ```
 
 3. **Execute os Notebooks**:
