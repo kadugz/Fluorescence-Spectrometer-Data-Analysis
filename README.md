@@ -9,7 +9,8 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 - `code_2D.ipynb`: Notebook contendo apenas o código para gerar gráficos 2D das intensidades de fluorescência.
 - `code_3D.ipynb`: Notebook contendo apenas o código para gerar gráficos 3D das intensidades de fluorescência.
 - `analysis.ipynb`: Notebook contendo ambos os códigos em um formato explicativo e organizado.
-Os códigos realizam o plot de dois gráficos, 2D e 3D, e geram sua imagem em um arquivo `.png`, à partir dos dados fornecidos pela máquina, no formato `.txt`.
+
+Os códigos realizam o plot de dois gráficos, 2D e 3D, e geram sua imagem em um arquivo `.png`, à partir dos dados fornecidos pela máquina, no formato `.txt`. Além disso, os arquivos `code_2D.ipynb` e `code_3D.ipynb` foram pensados para usuários mais experientes, que buscam apeenas o código que irá fornecer seu gráfico. Ainda assim, indico que seja baixado o `analysis.ipynb` para uma maior compreensão do código em si, facilitando possíveis alterações para outros modelos de máquina.
 
 ## Como Usar
 1. **Clone este repositório**:
