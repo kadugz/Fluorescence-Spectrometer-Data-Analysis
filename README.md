@@ -3,7 +3,7 @@
 Este repositório contém códigos para análise e visualização de dados provenientes de um espectrofluorímetro. Os scripts foram desenvolvidos para facilitar a compreensão e a visualização dos dados de fluorescência em gráficos 2D e 3D.
 
 ## Contribuição
-Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na compreensão dos dados e pelo suporte durante o desenvolvimento deste repositório.
+Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na compreensão dos dados e pelo suporte durante o desenvolvimento deste repositório, em sua disciplina, **Laboratório Avançado III**, dada na instituição **ilum - Escola de ciência**.
 
 ## Estrutura do Repositório
 - `code_2D.ipynb`: Notebook contendo apenas o código para gerar gráficos 2D das intensidades de fluorescência.
