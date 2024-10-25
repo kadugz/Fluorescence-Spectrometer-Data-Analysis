@@ -28,3 +28,6 @@ Agradecimentos ao professor **Leandro das Merces Silva** pela contribuição na 
 - Certifique-se de que os arquivos de dados estão no formato correto (arquivo `.txt` conforme especificado nos códigos).
 - Altere o nome do arquivo nos scripts, se necessário, para que correspondam aos seus dados.
 - Altere o limite dos eixos para os valores de comprimento de onda Ex (nm), realizados em sua análise.
+
+## Referências
+- 
